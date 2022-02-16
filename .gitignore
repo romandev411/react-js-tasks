@@ -13,6 +13,7 @@ node_modules/
 */.idea
 */.DS_Store
 */package-lock.json
+*/.gitignore
 npm-debug.*
 source/css/*.css
 source/css/*.map
